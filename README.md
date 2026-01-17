@@ -11,9 +11,7 @@ This repository contains all datasets, scripts, and figures used in the study:
 
 ## Repository Contents
 
-- `data/` – Geochemical datasets (XRF and AAS) and 2D ERI profiles
-- `code/` – Python/Matlab scripts for MCIA, Mobility Ratio calculations, and data processing
-- `figures/` – Figures for subsurface weathering architecture
+- `data/` – Geochemical datasets (XRF and AAS), Borehole data and 2D ERI profiles
 - `LICENSE` – License files for data and code
 
 ---
